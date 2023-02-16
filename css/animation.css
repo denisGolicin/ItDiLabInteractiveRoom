@@ -12,6 +12,7 @@ h1 {
     font-family: "montserrat", sans-serif;
     font-size: 50px;
     font-weight: bold;
+    z-index: 2;
 }
 
 .parallelogram {
